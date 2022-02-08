@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE lessons SYSTEM "lessons_DTD.dtd">
+<lessons>
+	<lesson id = "lesson_a">
+		<ls_name>Технологии программирования</ls_name>
+		<ls_start>06.10.2021</ls_start>
+		<ls_time>40</ls_time>
+		<ls_teacher>Смольянинов Антон Валентинович</ls_teacher>
+	</lesson>
+	<lesson id = "lesson_b">
+		<ls_name>Введение в базы данных</ls_name>
+		<ls_start>28.10.2021</ls_start>
+		<ls_time>40</ls_time>
+		<ls_teacher>Осетрова Ирина Станиславовна</ls_teacher>
+	</lesson>
+	<lesson id = "lesson_c">
+		<ls_name>Программирование на Microsoft C#</ls_name>
+		<ls_start>11.11.2021</ls_start>
+		<ls_time>50</ls_time>
+		<ls_teacher>Осипов Никита Алексеевич</ls_teacher>
+	</lesson>
+</lessons>

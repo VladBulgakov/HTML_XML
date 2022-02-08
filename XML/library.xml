@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+<library>
+	<book_catalog>
+		<book id = "book_1" isbn = "2-266-11156-6" year = "2010" issue = "original">
+			<authors>
+				<author>Иван Иванов</author>
+				<author>Сергей Сергеев</author>
+			</authors>
+			<title>Самая лучшая книга</title>
+			<publishing>Издательство №1</publishing>
+			<annotation>Это описание книги</annotation>
+		</book>
+		<book id = "book_2" year = "1998" issue = "translation">
+			<title>Не самая лучшая книга</title>
+			<publishing>Издательство №2</publishing>
+		</book>
+	</book_catalog>
+	<author_catalog>
+		<author_book idref = "book_1">Иван Иванов</author_book>
+		<author_book idref = "book_1">Сергей Сергеев</author_book>
+	</author_catalog>
+</library>

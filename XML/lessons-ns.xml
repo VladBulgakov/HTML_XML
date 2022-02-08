@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<LsNS:lessons xmlns:LsNS = "http://www.itmo.ru/xml/lessons" xmlns:LitNS = "LiteratureNamespace">
+	<LsNS:lesson id = "lesson_a">
+		<LsNS:ls_name>Технологии программирования</LsNS:ls_name>
+		<LsNS:ls_start>06.10.2021</LsNS:ls_start>
+		<LsNS:ls_time>40</LsNS:ls_time>
+		<LsNS:ls_teacher>Смольянинов Антон Валентинович</LsNS:ls_teacher>
+		<LitNS:ls_literature>https://tproger.ru/books/the-25-most-recommended-programming-books-of-all-time/</LitNS:ls_literature>
+	</LsNS:lesson>
+	<LsNS:lesson id = "lesson_b">
+		<LsNS:ls_name>Введение в базы данных</LsNS:ls_name>
+		<LsNS:ls_start>28.10.2021</LsNS:ls_start>
+		<LsNS:ls_time>40</LsNS:ls_time>
+		<LsNS:ls_teacher>Осетрова Ирина Станиславовна</LsNS:ls_teacher>
+		<LitNS:ls_literature>https://proglib.io/p/sql-digest</LitNS:ls_literature>
+	</LsNS:lesson>
+	<LsNS:lesson id = "lesson_c">
+		<LsNS:ls_name>Программирование на Microsoft C#</LsNS:ls_name>
+		<LsNS:ls_start>11.11.2021</LsNS:ls_start>
+		<LsNS:ls_time>50</LsNS:ls_time>
+		<LsNS:ls_teacher>Осипов Никита Алексеевич</LsNS:ls_teacher>
+		<LitNS:ls_literature>https://proglib.io/p/top-10-knig-po-c-ot-novichka-do-professionala-2020-03-18</LitNS:ls_literature>
+	</LsNS:lesson>
+</LsNS:lessons>

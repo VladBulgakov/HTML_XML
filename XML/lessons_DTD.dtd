@@ -1,0 +1,8 @@
+<!ELEMENT lessons (lesson+)>
+<!ELEMENT lesson (ls_name,ls_start,ls_time,ls_teacher)>
+<!ELEMENT ls_name (#PCDATA)>
+<!ELEMENT ls_start (#PCDATA)>
+<!ELEMENT ls_time (#PCDATA)>
+<!ELEMENT ls_teacher (#PCDATA)>
+
+<!ATTLIST lesson id ID #REQUIRED>
